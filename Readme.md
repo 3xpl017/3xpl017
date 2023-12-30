@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phoenix</h1>
 <h3 align="center">The future is Python</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenix&label=Profile%20views&color=0e75b6&style=flat" alt="phoenix" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoenix" alt="phoenix" /></a> </p>
-
 - 🌱 I’m currently learning **social engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/3xpl017](https://github.com/3xpl017)
@@ -22,7 +18,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenix&show_icons=true&locale=en&layout=compact" alt="phoenix" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenix&show_icons=true&locale=en" alt="phoenix" /></p>
+<hr>
+<h4>LET'S G0!</h4>
