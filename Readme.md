@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋, Soy 3xpl017</h1>
 <h3 align="center">Me gusta que me llamen Phoenix</h3>
 
-- 🌱 Estot aprendiendo `*Ingeniería social*` **social engineering**
+- 🌱 Estot aprendiendo `Ingeniería social`.
 
-- 👨‍💻 All of my projects are available at [https://github.com/3xpl017](https://github.com/3xpl017)
+- 👨‍💻 `Todos mis proyectos` están disponibles aquí: [https://github.com/3xpl017](https://github.com/3xpl017).
 
-- 📝 I regularly write articles on [https://softwaresalesthe1.blogspot.com/](https://softwaresalesthe1.blogspot.com/)
+- 📝 A menudo subo `artículos` a: [https://softwaresalesthe1.blogspot.com/](https://softwaresalesthe1.blogspot.com/).
 
-- 💬 Ask me about **Python**
+- 💬 Pregúntame sobre `Python`.
 
-- 📫 How to reach me **universal.exploit.tryhackme@gmail.com**
+- 📫 Mi correo es: `universal.exploit.tryhackme@gmail.com`.
 
-- Send me a request to my discord **(qwfkr)**
+- Envíame una invitación en Discord a: `qwfkr`.
