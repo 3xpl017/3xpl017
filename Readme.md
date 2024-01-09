@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Phoenix</h1>
-<h3 align="center">The future is Python</h3>
+<h1 align="center">Hola 👋, Soy 3xpl017</h1>
+<h3 align="center">Me gusta que me llamen Phoenix</h3>
 
-- 🌱 I’m currently learning **social engineering**
+- 🌱 Estot aprendiendo `*Ingeniería social*` **social engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/3xpl017](https://github.com/3xpl017)
 
