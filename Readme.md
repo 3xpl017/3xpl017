@@ -21,3 +21,7 @@
 👍InfoGadget: 
 
 [![image.png](https://i.postimg.cc/ncWvVqPd/image.png)](https://postimg.cc/F7jfDkmc)
+
+👍BasicWhois:
+
+[![image.png](https://i.postimg.cc/J7NYvF3W/image.png)](https://postimg.cc/bdvR23F6)
